@@ -52,7 +52,7 @@ The Power BI dashboard includes:
 All visuals are interactive, allowing users to filter and explore specific patterns by age group, gender, or risk level.
 
 ---
-
+<!--
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
@@ -72,3 +72,4 @@ Then open the dashboard file:interactive Cancer risk dashboard.pbix
 
 ### 3. Explore the Dashboard
 The dashboard is fully interactive — ideal for visually exploring how different variables contribute to cancer diagnosis outcomes.
+-->
