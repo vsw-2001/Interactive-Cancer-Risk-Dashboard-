@@ -68,7 +68,7 @@ Ensure that **Power BI Desktop** is installed on your system.
 If you don’t have it, you can download it here:  
 [https://powerbi.microsoft.com/desktop](https://powerbi.microsoft.com/desktop)
 
-Then open the dashboard file:Interactive-Cancer-Risk-Dashboard.pbix
+Then open the dashboard file:interactive Cancer risk dashboard.pbix
 
 ### 3. Explore the Dashboard
 The dashboard is fully interactive — ideal for visually exploring how different variables contribute to cancer diagnosis outcomes.
